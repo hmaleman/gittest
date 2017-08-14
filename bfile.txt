@@ -1,0 +1,2 @@
+new fileB
+asa
